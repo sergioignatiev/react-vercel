@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav{
+  display: flex;
+  gap: 20px;
+  background-color: aqua;
+}
+.nav-label{
+  text-decoration: none;
+  color:red;
+  padding: 20px;
+}
+.aside{
+  display:none;
+  color:rgb(8, 8, 10);
+}
+.nav-L:hover{
+ 
+.aside{
+  display: block;
+  background: red;
+  position: absolute;
+}
+}
+a{
+  display:inline-block;
+}
+.aside-link{
+  font-size: 20px;
+  color:white;
+  padding:10px;
+
+}
